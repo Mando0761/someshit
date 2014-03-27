@@ -3,14 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace Mach
+namespace ping
 {
     static class Program
     {
         /// <summary>
-        /// 
-        /// 
-        /// 
         /// The main entry point for the application.
         /// </summary>
         [STAThread]
@@ -18,7 +15,7 @@ namespace Mach
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new inicio());
+            Application.Run(new Form1());
         }
     }
 }

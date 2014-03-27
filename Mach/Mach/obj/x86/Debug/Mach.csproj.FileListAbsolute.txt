@@ -24,3 +24,5 @@ C:\Users\PBass\Desktop\Mach\Mach\obj\x86\Debug\Mach.interval.resources
 C:\Users\PBass\Desktop\Mach\Mach\obj\x86\Debug\Mach.palindrome.resources
 C:\Users\PBass\Desktop\Mach\Mach\obj\x86\Debug\Mach.Properties.Resources.resources
 C:\Users\PBass\Desktop\Mach\Mach\obj\x86\Debug\Mach.csproj.GenerateResource.Cache
+C:\Users\PBass\Documents\RepositoriosLoca\Mach\Mach\obj\x86\Debug\Mach.exe
+C:\Users\PBass\Documents\RepositoriosLoca\Mach\Mach\obj\x86\Debug\Mach.pdb

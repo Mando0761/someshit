@@ -1,0 +1,13 @@
+c:\users\pbass\documents\visual studio 2010\Projects\ping\ping\bin\Debug\ping.exe
+c:\users\pbass\documents\visual studio 2010\Projects\ping\ping\bin\Debug\ping.pdb
+c:\users\pbass\documents\visual studio 2010\Projects\ping\ping\obj\x86\Debug\ping.Form1.resources
+c:\users\pbass\documents\visual studio 2010\Projects\ping\ping\obj\x86\Debug\ping.Properties.Resources.resources
+c:\users\pbass\documents\visual studio 2010\Projects\ping\ping\obj\x86\Debug\ping.csproj.GenerateResource.Cache
+c:\users\pbass\documents\visual studio 2010\Projects\ping\ping\obj\x86\Debug\ping.exe
+c:\users\pbass\documents\visual studio 2010\Projects\ping\ping\obj\x86\Debug\ping.pdb
+C:\Users\PBass\documents\visual studio 2010\Projects\ping\ping\obj\x86\Debug\ping.csprojResolveAssemblyReference.cache
+C:\Users\PBass\documents\visual studio 2010\Projects\ping\ping\bin\Debug\ping.exe.config
+C:\Users\PBass\Documents\Visual Studio 2010\Projects\ping\ping\obj\x86\Debug\ping.Input.resources
+C:\Users\PBass\Documents\RepositoriosLoca\ping\ping\bin\Debug\ping.exe.config
+C:\Users\PBass\Documents\RepositoriosLoca\ping\ping\obj\x86\Debug\ping.exe
+C:\Users\PBass\Documents\RepositoriosLoca\ping\ping\obj\x86\Debug\ping.pdb
