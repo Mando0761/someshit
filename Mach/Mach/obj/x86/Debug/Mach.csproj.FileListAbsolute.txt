@@ -1,0 +1,26 @@
+c:\users\pbass\documents\visual studio 2010\Projects\Mach\Mach\obj\x86\Debug\Mach.Properties.Resources.resources
+c:\users\pbass\documents\visual studio 2010\Projects\Mach\Mach\obj\x86\Debug\Mach.csproj.GenerateResource.Cache
+c:\users\pbass\documents\visual studio 2010\Projects\Mach\Mach\bin\Debug\Mach.exe
+c:\users\pbass\documents\visual studio 2010\Projects\Mach\Mach\bin\Debug\Mach.pdb
+c:\users\pbass\documents\visual studio 2010\Projects\Mach\Mach\obj\x86\Debug\Mach.exe
+c:\users\pbass\documents\visual studio 2010\Projects\Mach\Mach\obj\x86\Debug\Mach.pdb
+c:\users\pbass\documents\visual studio 2010\Projects\Mach\Mach\obj\x86\Debug\Mach.interval.resources
+C:\Users\PBass\documents\visual studio 2010\Projects\Mach\Mach\obj\x86\Debug\Mach.csprojResolveAssemblyReference.cache
+C:\Users\PBass\documents\visual studio 2010\Projects\Mach\Mach\obj\x86\Debug\Mach.maq.resources
+C:\Users\PBass\documents\visual studio 2010\Projects\Mach\Mach\obj\x86\Debug\Mach.palindrome.resources
+C:\Users\PBass\documents\visual studio 2010\Projects\Mach\Mach\obj\x86\Debug\Mach.inicio.resources
+C:\Users\PBass\documents\visual studio 2010\Projects\Mach\Mach\obj\x86\Debug\Mach.info.resources
+C:\Users\PBass\documents\visual studio 2010\Projects\Mach\Mach\obj\x86\Debug\Mach.binaryAdd.resources
+C:\Users\PBass\Desktop\Mach\Mach\obj\x86\Debug\Mach.exe
+C:\Users\PBass\Desktop\Mach\Mach\obj\x86\Debug\Mach.pdb
+C:\Users\PBass\Desktop\Mach\Mach\bin\Debug\Mach.exe
+C:\Users\PBass\Desktop\Mach\Mach\bin\Debug\Mach.pdb
+C:\Users\PBass\Desktop\Mach\Mach\obj\x86\Debug\Mach.csprojResolveAssemblyReference.cache
+C:\Users\PBass\Desktop\Mach\Mach\obj\x86\Debug\Mach.binaryAdd.resources
+C:\Users\PBass\Desktop\Mach\Mach\obj\x86\Debug\Mach.info.resources
+C:\Users\PBass\Desktop\Mach\Mach\obj\x86\Debug\Mach.inicio.resources
+C:\Users\PBass\Desktop\Mach\Mach\obj\x86\Debug\Mach.maq.resources
+C:\Users\PBass\Desktop\Mach\Mach\obj\x86\Debug\Mach.interval.resources
+C:\Users\PBass\Desktop\Mach\Mach\obj\x86\Debug\Mach.palindrome.resources
+C:\Users\PBass\Desktop\Mach\Mach\obj\x86\Debug\Mach.Properties.Resources.resources
+C:\Users\PBass\Desktop\Mach\Mach\obj\x86\Debug\Mach.csproj.GenerateResource.Cache
